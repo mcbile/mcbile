@@ -22,7 +22,7 @@ Our focus is on solving real business and operational problems through clean arc
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcbile&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/mcbile)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcbile&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)]
 
 </div>
 
@@ -84,7 +84,7 @@ Our focus is on solving real business and operational problems through clean arc
 
 ### Languages & Runtimes
 
-![Python](https://img.shields.io/badge/Python-3.10_--_3.13-3776ab?logo=python&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.13-3776ab?logo=python&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Go](https://img.shields.io/badge/Go-1.21_+-00ADD8?logo=go&logoColor=white&style=for-the-badge)
@@ -94,7 +94,7 @@ Our focus is on solving real business and operational problems through clean arc
 
 ![Svelte](https://img.shields.io/badge/Svelte-5.x-FF3E00?logo=svelte&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-19.x-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-6.x_--_8.x-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-8.x-646CFF?logo=vite&logoColor=white&style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-Latest-E34C26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-Latest-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -126,7 +126,7 @@ Our focus is on solving real business and operational problems through clean arc
 
 ### Testing & Quality Assurance
 
-![pytest](https://img.shields.io/badge/pytest-1000%2B_Tests-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge)
+![pytest](https://img.shields.io/badge/pytest-10k%2B_Tests-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge)
 ![Vitest](https://img.shields.io/badge/Vitest-Frontend_Tests-6E9F18?logo=vitest&logoColor=white&style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/Playwright-E2E_Tests-2EAD33?logo=microsoft&logoColor=white&style=for-the-badge)
 ![ESLint](https://img.shields.io/badge/ESLint-JS_Linting-4B32C3?logo=eslint&logoColor=white&style=for-the-badge)
