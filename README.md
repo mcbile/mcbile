@@ -1,8 +1,12 @@
 <div align="center">
 
-## [MCBILE • AI-powered apps](https://mcbile.app)
+# [MCBILE • AI-powered apps](https://mcbile.app)
 
 **Product Engineering • Data & AI • Platform Architecture**
+
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions-1%2C801-58a6ff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=58a6ff)
+![Total Stars](https://img.shields.io/github/stars/mcbile?label=Total%20Stars&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&logoColor=58a6ff)
+![Active Projects](https://img.shields.io/badge/Active%20Projects-14-58a6ff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=58a6ff)
 
 </div>
 
@@ -13,12 +17,6 @@
 MCBILE builds digital products, internal systems, and AI-powered workflows with a product-first mindset. We work across product design, web and desktop engineering, analytics, automation, and local-first systems.
 
 Our focus is on solving real business and operational problems through clean architecture, measurable outcomes, and practical iteration.
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcbile&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff)
 
 ---
 
@@ -133,12 +131,12 @@ Our focus is on solving real business and operational problems through clean arc
 
 | Project | Purpose | Stack |
 |---------|---------|-------|
-| **iPulsy** | AI-driven analytics platform for iGaming | TypeScript, Python, Analytics, PostgreSQL |
-| **Filesy** | Local semantic file search (macOS) | Svelte, Tauri, Ollama, Qdrant |
-| **Producsy** | Backend orchestration platform | TypeScript, Go, PostgreSQL |
-| **Swotsy** | Strategy analysis & planning tool | Python, FastAPI, Analytics |
-| **Visionary** | Central AI knowledge library (orchestration layer) | Python, Shell |
-| **Cheese Runner** | Strategy analysis & planning tool | Python, FastAPI, Analytics |
+| **[iPulsy](https://ipulsy.com)** | AI-powered analytics and decision support for iGaming | TypeScript, Python, Analytics, PostgreSQL |
+| **[Filesy](https://filesy.top)** | Local semantic file search for macOS | Svelte, Tauri, Ollama, Qdrant |
+| **[Producsy](https://producsy.com)** | Backend orchestration and workflow platform | TypeScript, Go, PostgreSQL |
+| **[Swotsy](https://mcbile.app/swotsy)** | Strategic analysis and planning tool | Python, FastAPI, Analytics |
+| **[Visionary](https://www.mcbile.app/playbook-aic)** | AI knowledge library and orchestration layer | Python, Shell |
+| **[Cheese Runner](https://applesyn.com)** | Strategic planning and decision-intelligence workflows | Python, FastAPI, Analytics, PostgreSQL |
 
 </div>
 
