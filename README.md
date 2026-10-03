@@ -10,7 +10,7 @@
 
 ## 🎯 About us
 
-MCBILE builds digital products, internal systems, and AI-powered workflows with a product-first mindset. We work across product design, web and desktop engineering, analytics, automation, and local-first AI tools.
+MCBILE builds digital products, internal systems, and AI-powered workflows with a product-first mindset. We work across product design, web and desktop engineering, analytics, automation, and local-first systems.
 
 Our focus is on solving real business and operational problems through clean architecture, measurable outcomes, and practical iteration.
 
@@ -18,7 +18,7 @@ Our focus is on solving real business and operational problems through clean arc
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcbile&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcbile&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff)
 
 ---
 
