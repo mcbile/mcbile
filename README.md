@@ -1,5 +1,8 @@
 <div align="center">
-[MCBILE • AI-powered apps](https://mcbile.app)
+
+# 🚀 MCBILE
+
+[AI-powered apps](https://mcbile.app)
 
 **Product Engineering • Data & AI • Platform Architecture**
 
@@ -23,6 +26,8 @@ Our focus is on solving real business and operational problems through clean arc
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcbile&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/mcbile)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcbile&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/mcbile)
+
 </div>
 
 ---
@@ -32,38 +37,42 @@ Our focus is on solving real business and operational problems through clean arc
 <table>
 <tr>
 <td width="50%">
-**🛠️ Product & Web**
-  
+
+### 🛠️ Product & Web
 - Customer-facing platforms
 - SaaS analytics dashboards
 - Marketplace & e-commerce
 - Interactive web experiences
+
 </td>
 <td width="50%">
-**🤖 AI & Automation**
-  
+
+### 🤖 AI & Automation
 - Local-first AI workflows
 - Semantic search & RAG
 - Data analysis & insights
 - Smart automation systems
+
 </td>
 </tr>
 <tr>
 <td width="50%">
-**📈 Analytics & BI**
-  
+
+### 📈 Analytics & BI
 - Multi-brand analytics
 - Business intelligence tools
 - Player cohort analysis
 - Real-time dashboards
+
 </td>
 <td width="50%">
-**🖥️ Desktop & Native**
-  
+
+### 🖥️ Desktop & Native
 - macOS desktop apps
 - Cross-platform tools
 - Native performance
 - Zero cloud dependency
+
 </td>
 </tr>
 </table>
@@ -109,10 +118,10 @@ Our focus is on solving real business and operational problems through clean arc
 
 ### Desktop & Native
 
+![macOS](https://img.shields.io/badge/macOS-Native-000000?logo=apple&logoColor=white&style=for-the-badge)
 ![Tauri](https://img.shields.io/badge/Tauri-Desktop-24C8DB?logo=tauri&logoColor=white&style=for-the-badge)
 ![Swift](https://img.shields.io/badge/Swift-macOS_Helper-FA7343?logo=swift&logoColor=white&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-1.70_+-CE422B?logo=rust&logoColor=white&style=for-the-badge)
-![macOS](https://img.shields.io/badge/macOS-Native-000000?logo=apple&logoColor=white&style=for-the-badge)
 
 ### Testing & Quality Assurance
 
@@ -147,3 +156,9 @@ Our focus is on solving real business and operational problems through clean arc
 </div>
 
 ---
+
+<div align="center">
+
+### Built for clarity, scale, and iteration.
+
+</div>
