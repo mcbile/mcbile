@@ -4,8 +4,6 @@
 
 **Product Engineering • Data & AI • Platform Architecture**
 
-*Building digital products that solve real problems through clean code, measurable outcomes, and practical iteration.*
-
 </div>
 
 ---
@@ -20,11 +18,7 @@ Our focus is on solving real business and operational problems through clean arc
 
 ## 📊 GitHub Activity
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcbile&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)]
-
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcbile&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
 
 ---
 
@@ -36,15 +30,6 @@ Our focus is on solving real business and operational problems through clean arc
 <tr>
 <td>
 
-### 🛠️ Product & Web
-
-- Customer-facing platforms
-- SaaS analytics dashboards
-- Marketplace & e-commerce
-- Interactive web experiences
-
-</td>
-<td>
 
 ### 🤖 AI & Automation
 
@@ -56,12 +41,13 @@ Our focus is on solving real business and operational problems through clean arc
 </td>
 <td>
 
-### 📈 Analytics & BI
 
-- Multi-brand analytics
+### 📈 BI & Analytics
+
+- Customer-facing platforms
+- RT analytics dashboards
 - Business intelligence tools
-- Player cohort analysis
-- Real-time dashboards
+- Interactive web experiences
 
 </td>
 <td>
