@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🚀 MCBILE
-
-[AI-powered apps](https://mcbile.app)
+## [MCBILE • AI-powered apps](https://mcbile.app)
 
 **Product Engineering • Data & AI • Platform Architecture**
 
@@ -26,48 +24,50 @@ Our focus is on solving real business and operational problems through clean arc
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcbile&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/mcbile)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcbile&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/mcbile)
-
 </div>
 
 ---
 
 ## 💡 What We Do
 
+<div align="center">
+  
 <table>
 <tr>
-<td width="50%">
+<td>
 
 ### 🛠️ Product & Web
+
 - Customer-facing platforms
 - SaaS analytics dashboards
 - Marketplace & e-commerce
 - Interactive web experiences
 
 </td>
-<td width="50%">
+<td>
 
 ### 🤖 AI & Automation
+
 - Local-first AI workflows
 - Semantic search & RAG
 - Data analysis & insights
 - Smart automation systems
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td>
 
 ### 📈 Analytics & BI
+
 - Multi-brand analytics
 - Business intelligence tools
 - Player cohort analysis
 - Real-time dashboards
 
 </td>
-<td width="50%">
+<td>
 
 ### 🖥️ Desktop & Native
+
 - macOS desktop apps
 - Cross-platform tools
 - Native performance
@@ -77,7 +77,8 @@ Our focus is on solving real business and operational problems through clean arc
 </tr>
 </table>
 
----
+</div>
+
 
 ## 🛠️ Technology Stack
 
