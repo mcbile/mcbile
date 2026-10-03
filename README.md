@@ -131,12 +131,12 @@ Our focus is on solving real business and operational problems through clean arc
 
 | Project | Purpose | Stack |
 |---------|---------|-------|
-| **[iPulsy](https://ipulsy.com)** | AI-powered analytics and decision support for iGaming | TypeScript, Python, Analytics, PostgreSQL |
-| **[Filesy](https://filesy.top)** | Local semantic file search for macOS | Svelte, Tauri, Ollama, Qdrant |
-| **[Producsy](https://producsy.com)** | Backend orchestration and workflow platform | TypeScript, Go, PostgreSQL |
-| **[Swotsy](https://mcbile.app/swotsy)** | Strategic analysis and planning tool | Python, FastAPI, Analytics |
-| **[Visionary](https://www.mcbile.app/playbook-aic)** | AI knowledge library and orchestration layer | Python, Shell |
-| **[Cheese Runner](https://applesyn.com)** | Strategic planning and decision-intelligence workflows | Python, FastAPI, Analytics, PostgreSQL |
+| **[iPulsy](https://ipulsy.com)** | AI-powered analytics and decision support for iGaming operators | TypeScript, Python, PostgreSQL, Shell, AI tooling |
+| **[Filesy](https://filesy.top)** | Local semantic file search for macOS with AI indexing, retrieval, and knowledge access | Svelte, Tauri, Python, Ollama, Qdrant, RAG |
+| **[Producsy](https://producsy.com)** | Workflow and orchestration platform for coordinating product operations and processes | TypeScript, Go, PostgreSQL, Docker |
+| **[Swotsy](https://mcbile.app/swotsy)** | Strategic analysis and planning tool for evaluating strengths, weaknesses, opportunities, and risks | Python, FastAPI, Pandas, AI tooling |
+| **[Visionary](https://www.mcbile.app/playbook-aic)** | AI knowledge library and orchestration layer for prompts, workflows, and structured decision support | Python, Shell, AI tooling, Orchestration |
+| **[Cheese Runner](https://applesyn.com)** | 3D browser game experience with interactive gameplay, world logic, and arcade mechanics | React 19, TypeScript, Vite, Three.js |
 
 </div>
 
