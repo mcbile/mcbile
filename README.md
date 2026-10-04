@@ -132,7 +132,7 @@ Our focus is on solving real business and operational problems through clean arc
 | Project | Purpose | Stack |
 |---------|---------|-------|
 | **[iPulsy](https://ipulsy.com)** | AI-powered analytics and decision support platform for iGaming operators | TypeScript, Python, PostgreSQL, Shell, AI tooling |
-| **[Producsy](https://producsy.com)** | iGaming Performance monitoring & competitive intelligence platform for iGaming operators | TypeScript, Go, PostgreSQL, Docker |
+| **[Producsy](https://producsy.com)** | Performance monitoring & competitive intelligence platform for iGaming operators | TypeScript, Go, PostgreSQL, Docker |
 | **[Swotsy](https://mcbile.app/swotsy)** | Strategic analysis and planning tool for evaluating strengths, weaknesses, opportunities, and risks | Python, FastAPI, Pandas, AI tooling |
 | **[Filesy](https://filesy.top)** | Local semantic file search for macOS with AI indexing, retrieval, and knowledge access | Svelte, Tauri, Python, Ollama, Qdrant |
 | **[Visionary](https://www.mcbile.app/playbook-aic)** | AI knowledge library and orchestration layer for prompts, workflows, and structured decision support | Python, Shell, AI tooling |
