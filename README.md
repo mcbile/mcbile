@@ -97,7 +97,7 @@ Our focus is on solving real business and operational problems through clean arc
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-FF6B35?logo=&logoColor=white&style=for-the-badge)
 ![Qwen](https://img.shields.io/badge/Qwen-Generation-FF6B35?logo=&logoColor=white&style=for-the-badge)
 ![bge-m3](https://img.shields.io/badge/bge--m3-Embeddings-8B5CF6?logo=&logoColor=white&style=for-the-badge)
-![fastembed](https://img.shields.io/badge/fastembed-Reranking-8B5CF6?logo=&logoColor=white&style=for-the-badge)
+![fastembed](https://img.shields.io/badge/Jina-Reranking-8B5CF6?logo=&logoColor=white&style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-AI_API-2D333B?logo=&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-Analytics-150458?logo=pandas&logoColor=white&style=for-the-badge)
 
