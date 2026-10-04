@@ -87,7 +87,7 @@ Our focus is on solving real business and operational problems through clean arc
 ### Backend & Data
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-Web-009688?logo=fastapi&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15%2B-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-8B5CF6?logo=&logoColor=white&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-Local_DB-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white&style=for-the-badge)
