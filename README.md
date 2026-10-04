@@ -131,12 +131,12 @@ Our focus is on solving real business and operational problems through clean arc
 
 | Project | Purpose | Stack |
 |---------|---------|-------|
-| **[iPulsy](https://ipulsy.com)** | AI-powered analytics and decision support for iGaming operators | TypeScript, Python, PostgreSQL, Shell, AI tooling |
-| **[Filesy](https://filesy.top)** | Local semantic file search for macOS with AI indexing, retrieval, and knowledge access | Svelte, Tauri, Python, Ollama, Qdrant, RAG |
-| **[Producsy](https://producsy.com)** | Workflow and orchestration platform for coordinating product operations and processes | TypeScript, Go, PostgreSQL, Docker |
+| **[iPulsy](https://ipulsy.com)** | AI-powered analytics and decision support platform for iGaming operators | TypeScript, Python, PostgreSQL, Shell, AI tooling |
+| **[Producsy](https://producsy.com)** | iGaming Performance monitoring & competitive intelligence platform for iGaming operators | TypeScript, Go, PostgreSQL, Docker |
 | **[Swotsy](https://mcbile.app/swotsy)** | Strategic analysis and planning tool for evaluating strengths, weaknesses, opportunities, and risks | Python, FastAPI, Pandas, AI tooling |
-| **[Visionary](https://www.mcbile.app/playbook-aic)** | AI knowledge library and orchestration layer for prompts, workflows, and structured decision support | Python, Shell, AI tooling, Orchestration |
-| **[Cheese Runner](https://applesyn.com)** | 3D browser game experience with interactive gameplay, world logic, and arcade mechanics | React 19, TypeScript, Vite, Three.js |
+| **[Filesy](https://filesy.top)** | Local semantic file search for macOS with AI indexing, retrieval, and knowledge access | Svelte, Tauri, Python, Ollama, Qdrant |
+| **[Visionary](https://www.mcbile.app/playbook-aic)** | AI knowledge library and orchestration layer for prompts, workflows, and structured decision support | Python, Shell, AI tooling |
+| **[Cheese Runner](https://applesyn.com)** | 3D browser game experience with interactive gameplay, world logic, and arcade mechanics | React, TypeScript, Vite, Three.js |
 
 </div>
 
