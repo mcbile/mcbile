@@ -97,8 +97,8 @@ Our focus is on solving real business and operational problems through clean arc
 ![Pandas](https://img.shields.io/badge/Pandas-Analytics-345678?logo=pandas&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![Claude](https://img.shields.io/badge/Claude-AI_API-345678?logo=claude&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-345678?logo=ollama&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
-![bge-m3](https://img.shields.io/badge/bge--m3-Embeddings-345678?logo=github&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
-![fastembed](https://img.shields.io/badge/Jina-Reranking-345678?logo=github&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
+![BAAI](https://img.shields.io/badge/bge--m3-Embeddings-345678?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGhlaWdodD0iMWVtIiBzdHlsZT0iZmxleDpub25lO2xpbmUtaGVpZ2h0OjEiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjFlbSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QkFBSTwvdGl0bGU+PHBhdGggY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMCA0LjY4TDguNjEgMGwzLjU4MyAyLjAwNCAzLjEtMS43MzVMMjQgNS4xNHY4LjcwMWwtMy41ODIgMi4wMDR2My40NjlMMTIuMDM4IDI0bC04LjQ4Mi00LjUydi0zLjg0N0wwIDEzLjlWNC42OHptMS4yODQgMS40NzJ2Mi45MzRsNy45MzYgNC4wOTgtLjAzMiAxLjQxOS03LjkwNC00LjA4djIuNjU4bDEwLjA0MyA1LjMwM1YxMS43N0wxLjI4NCA2LjE1MnptMTAuNzQxIDQuNTMybDkuNzkxLTUuMzMtMi42My0xLjQ3LTcuMzk4IDQuMTM3LTEuMjUxLS43MzYgNy4zNjYtNC4xMi0yLjYxLTEuNDYtOS44MDYgNS4zNCA2LjUzOCAzLjY0ek00LjIgNi4zMjhsNi43MDktMy42MDZMOC42MSAxLjQzNmwtNi43MTQgMy42MUw0LjIgNi4zMjd6bTExLjA0IDE0LjQ0NGwtMi42MTggMS40NjVWMTEuOTRsNi41MTItMy42NDJ2MTAuMjk4bC0yLjYxIDEuNDZ2LTguMjQxbC0xLjI4My42ODJ2OC4yNzd6bS0xMC40LTQuNDJsNi40ODcgMy41Njh2Mi4yM0w0Ljg0IDE4Ljc2M3YtMi40MXptMTcuODc2LTMuMjN2LTYuODNMMjAuNDE4IDcuNTh2Ni44MjlsMi4yOTgtMS4yODZ6Ij48L3BhdGg+PC9zdmc+&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
+![Jina](https://img.shields.io/badge/Jina--v2-Reranking-345678?logo=huggingface&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![Qwen](https://img.shields.io/badge/Qwen-Generation-345678?logo=qwen&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 
 
@@ -122,7 +122,7 @@ Our focus is on solving real business and operational problems through clean arc
 ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-1F1F1F?logo=github-actions&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![Vercel](https://img.shields.io/badge/Vercel-Hosting-1F1F1F?logo=vercel&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![Docker_Compose](https://img.shields.io/badge/Docker_Compose-Orchestration-1F1F1F?logo=docker&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
-![Cloud_VPS](https://img.shields.io/badge/Cloud_VPS-Infrastructure-1F1F1F?logo=cloudflare&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
+![Cloud_VPS](https://img.shields.io/badge/Cloud_VPS-Infrastructure-1F1F1F?logo=googlecloud&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 
 ---
 
