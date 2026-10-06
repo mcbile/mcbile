@@ -1,8 +1,10 @@
 <div align="center">
 
-# [MCBILE • AI-powered apps](https://mcbile.app)
-
-**Product Engineering • Data & AI • Platform Architecture**
+<a href="https://mcbile.app" target="_blank">
+  <img src="./mcbile-logo-d.svg" alt="MCBILE • AI-powered apps" width="300">
+</a>
+<br>
+<br>
 
 ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-1%2C801-f43f5d?style=for-the-badge&labelColor=2F2F2F&logo=github&logoColor=f43f5d)
 ![Total Stars](https://img.shields.io/badge/Stars-12-f43f5d?style=for-the-badge&labelColor=2F2F2F&logo=github&logoColor=f43f5d)
