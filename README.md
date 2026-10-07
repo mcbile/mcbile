@@ -71,7 +71,7 @@ Our focus is on solving real business and operational problems through clean arc
 ### Languages & Runtimes
 
 ![Python](https://img.shields.io/badge/Python-3.13-012345?logo=python&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.x-012345?logo=typescript&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
+![TypeScript](https://img.shields.io/badge/TypeScript-7.x-012345?logo=typescript&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-012345?logo=javascript&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![Go](https://img.shields.io/badge/Go-1.21_+-012345?logo=go&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![Shell](https://img.shields.io/badge/Shell-Bash-012345?logo=gnu-bash&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
@@ -83,30 +83,32 @@ Our focus is on solving real business and operational problems through clean arc
 ![Vite](https://img.shields.io/badge/Vite-8.x-123456?logo=vite&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-4.x-123456?logo=tailwindcss&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![HTML5](https://img.shields.io/badge/HTML5-Latest-123456?logo=html5&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
-![Three.js](https://img.shields.io/badge/Three.js-3D-123456?logo=three.js&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
+![Three.js](https://img.shields.io/badge/Three.js-3D--Graphics-123456?logo=three.js&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![CSS3](https://img.shields.io/badge/CSS3-Latest-123456?logo=css&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 
 ### Backend & Data
 
-![FastAPI](https://img.shields.io/badge/FastAPI-Web_Framework-234567?logo=fastapi&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
+![FastAPI](https://img.shields.io/badge/FastAPI-Web-234567?logo=fastapi&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational_DB-234567?logo=postgresql&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
-![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-234567?logo=qdrant&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
+![Supabase](https://img.shields.io/badge/Supabase-BaaS-234567?logo=supabase&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![SQLite](https://img.shields.io/badge/SQLite-Local_DB-234567?logo=sqlite&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
+![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-234567?logo=qdrant&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![Docker](https://img.shields.io/badge/Docker-Containers-234567?logo=docker&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
+![Resend](https://img.shields.io/badge/Resend-Email_Service-234567?logo=resend&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 
 ### AI & ML Stack
 
 ![Pandas](https://img.shields.io/badge/Pandas-Analytics-345678?logo=pandas&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![Claude](https://img.shields.io/badge/Claude-AI_API-345678?logo=claude&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-345678?logo=ollama&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
-![Qwen](https://img.shields.io/badge/Qwen-Generation-345678?logo=qwen&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
+![Qwen](https://img.shields.io/badge/Qwen_2.5-Tool_Calling-345678?logo=qwen&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![BAAI](https://img.shields.io/badge/bge--m3-Embeddings-345678?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGhlaWdodD0iMWVtIiBzdHlsZT0iZmxleDpub25lO2xpbmUtaGVpZ2h0OjEiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjFlbSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QkFBSTwvdGl0bGU+PHBhdGggY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMCA0LjY4TDguNjEgMGwzLjU4MyAyLjAwNCAzLjEtMS43MzVMMjQgNS4xNHY4LjcwMWwtMy41ODIgMi4wMDR2My40NjlMMTIuMDM4IDI0bC04LjQ4Mi00LjUydi0zLjg0N0wwIDEzLjlWNC42OHptMS4yODQgMS40NzJ2Mi45MzRsNy45MzYgNC4wOTgtLjAzMiAxLjQxOS03LjkwNC00LjA4djIuNjU4bDEwLjA0MyA1LjMwM1YxMS43N0wxLjI4NCA2LjE1MnptMTAuNzQxIDQuNTMybDkuNzkxLTUuMzMtMi42My0xLjQ3LTcuMzk4IDQuMTM3LTEuMjUxLS43MzYgNy4zNjYtNC4xMi0yLjYxLTEuNDYtOS44MDYgNS4zNCA2LjUzOCAzLjY0ek00LjIgNi4zMjhsNi43MDktMy42MDZMOC42MSAxLjQzNmwtNi43MTQgMy42MUw0LjIgNi4zMjd6bTExLjA0IDE0LjQ0NGwtMi42MTggMS40NjVWMTEuOTRsNi41MTItMy42NDJ2MTAuMjk4bC0yLjYxIDEuNDZ2LTguMjQxbC0xLjI4My42ODJ2OC4yNzd6bS0xMC40LTQuNDJsNi40ODcgMy41Njh2Mi4yM0w0Ljg0IDE4Ljc2M3YtMi40MXptMTcuODc2LTMuMjN2LTYuODNMMjAuNDE4IDcuNTh2Ni44MjlsMi4yOTgtMS4yODZ6Ij48L3BhdGg+PC9zdmc+&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![Jina](https://img.shields.io/badge/Jina--v3-Reranking-345678?logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIxLjUgMS4yNSAyMSAyMSIgZmlsbD0iI0ZGRkZGRiIgZmlsbC1ydWxlPSJldmVub2RkIiBhcmlhLWhpZGRlbj0idHJ1ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SmluYTwvdGl0bGU+PHBhdGggZD0iTTYuNjA4IDIxLjQxNmE0LjYwOCA0LjYwOCAwIDEwMC05LjIxNyA0LjYwOCA0LjYwOCAwIDAwMCA5LjIxN3pNMjAuODk0IDIuMDE1Yy42MTQgMCAxLjEwNi40OTIgMS4xMDYgMS4xMDZ2OS4wMDJjMCA1LjEzLTQuMTQ4IDkuMzA5LTkuMjE3IDkuMzd2LTkuMzU1bC0uMDMtOS4wMzJjMC0uNjE0LjQ5MS0xLjEwNiAxLjEwNi0xLjEwNmg3LjE1OGwtLjEyMy4wMTV6Ij48L3BhdGg+PC9zdmc+&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 
 ### Apps & Native
 
 ![Xcode](https://img.shields.io/badge/Xcode-27.x-456789?logo=xcode&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
-![Tauri](https://img.shields.io/badge/Tauri-Application_Framework-456789?logo=tauri&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
+![Tauri](https://img.shields.io/badge/Tauri-Application-456789?logo=tauri&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![Swift](https://img.shields.io/badge/Swift-6.4_+-456789?logo=swift&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![Rust](https://img.shields.io/badge/Rust-1.70_+-456789?logo=rust&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 
