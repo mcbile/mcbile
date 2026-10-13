@@ -98,12 +98,14 @@ Our focus is on solving real business and operational problems through clean arc
 
 ### AI & ML Stack
 
-![Pandas](https://img.shields.io/badge/Pandas-Analytics-345678?logo=pandas&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![Claude](https://img.shields.io/badge/Claude-AI_API-345678?logo=claude&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
+![Cursor](https://img.shields.io/badge/Cursor-IDE-345678?logo=cursor&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-345678?logo=ollama&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
+![Gemma](https://img.shields.io/badge/Gemma_4-Chat--Assistant-345678?logo=deepmind&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![Qwen](https://img.shields.io/badge/Qwen_2.5-Tool_Calling-345678?logo=qwen&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![BAAI](https://img.shields.io/badge/bge--m3-Embeddings-345678?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGhlaWdodD0iMWVtIiBzdHlsZT0iZmxleDpub25lO2xpbmUtaGVpZ2h0OjEiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjFlbSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QkFBSTwvdGl0bGU+PHBhdGggY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMCA0LjY4TDguNjEgMGwzLjU4MyAyLjAwNCAzLjEtMS43MzVMMjQgNS4xNHY4LjcwMWwtMy41ODIgMi4wMDR2My40NjlMMTIuMDM4IDI0bC04LjQ4Mi00LjUydi0zLjg0N0wwIDEzLjlWNC42OHptMS4yODQgMS40NzJ2Mi45MzRsNy45MzYgNC4wOTgtLjAzMiAxLjQxOS03LjkwNC00LjA4djIuNjU4bDEwLjA0MyA1LjMwM1YxMS43N0wxLjI4NCA2LjE1MnptMTAuNzQxIDQuNTMybDkuNzkxLTUuMzMtMi42My0xLjQ3LTcuMzk4IDQuMTM3LTEuMjUxLS43MzYgNy4zNjYtNC4xMi0yLjYxLTEuNDYtOS44MDYgNS4zNCA2LjUzOCAzLjY0ek00LjIgNi4zMjhsNi43MDktMy42MDZMOC42MSAxLjQzNmwtNi43MTQgMy42MUw0LjIgNi4zMjd6bTExLjA0IDE0LjQ0NGwtMi42MTggMS40NjVWMTEuOTRsNi41MTItMy42NDJ2MTAuMjk4bC0yLjYxIDEuNDZ2LTguMjQxbC0xLjI4My42ODJ2OC4yNzd6bS0xMC40LTQuNDJsNi40ODcgMy41Njh2Mi4yM0w0Ljg0IDE4Ljc2M3YtMi40MXptMTcuODc2LTMuMjN2LTYuODNMMjAuNDE4IDcuNTh2Ni44MjlsMi4yOTgtMS4yODZ6Ij48L3BhdGg+PC9zdmc+&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 ![Jina](https://img.shields.io/badge/Jina--v3-Reranking-345678?logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIxLjUgMS4yNSAyMSAyMSIgZmlsbD0iI0ZGRkZGRiIgZmlsbC1ydWxlPSJldmVub2RkIiBhcmlhLWhpZGRlbj0idHJ1ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SmluYTwvdGl0bGU+PHBhdGggZD0iTTYuNjA4IDIxLjQxNmE0LjYwOCA0LjYwOCAwIDEwMC05LjIxNyA0LjYwOCA0LjYwOCAwIDAwMCA5LjIxN3pNMjAuODk0IDIuMDE1Yy42MTQgMCAxLjEwNi40OTIgMS4xMDYgMS4xMDZ2OS4wMDJjMCA1LjEzLTQuMTQ4IDkuMzA5LTkuMjE3IDkuMzd2LTkuMzU1bC0uMDMtOS4wMzJjMC0uNjE0LjQ5MS0xLjEwNiAxLjEwNi0xLjEwNmg3LjE1OGwtLjEyMy4wMTV6Ij48L3BhdGg+PC9zdmc+&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
+![Pandas](https://img.shields.io/badge/Pandas-Analytics-345678?logo=pandas&logoColor=white&style=for-the-badge&labelColor=2F2F2F)
 
 ### Apps & Native
 
@@ -140,7 +142,15 @@ Our focus is on solving real business and operational problems through clean arc
 | **[Swotsy](https://mcbile.app/swotsy)** | Strategic analysis and planning tool for evaluating strengths, weaknesses, opportunities, and risks | Python, FastAPI, Pandas, AI tooling |
 | **[Filesy](https://filesy.top)** | Local semantic file search for macOS with AI indexing, retrieval, and knowledge access | Svelte, Tauri, Python, Ollama, Qdrant |
 | **[Visionary](https://www.mcbile.app/playbook-aic)** | AI knowledge library and orchestration layer for prompts, workflows, and structured decision support | Python, Shell, AI tooling |
-| **[Cheese Runner](https://applesyn.com)** | 3D browser game experience with interactive gameplay, world logic, and arcade mechanics | React, TypeScript, Vite, Three.js |
+| **[Cheese Runner](https://cheese.promo)** | 3D browser game experience with interactive gameplay, world logic, and arcade mechanics | React, TypeScript, Vite, Three.js |
+
+</div>
+
+---
+
+<div align="center">
+
+### Built for clarity, scale, and iteration.
 
 </div>
 
