@@ -139,25 +139,15 @@ Our focus is on solving real business and operational problems through clean arc
 |---------|---------|-------|
 | **[iPulsy](https://ipulsy.com)** | AI-powered analytics and decision support platform for iGaming operators | TypeScript, Python, PostgreSQL, Shell, AI tooling |
 | **[Producsy](https://producsy.com)** | Performance monitoring & competitive intelligence platform for iGaming operators | TypeScript, Go, PostgreSQL, Docker |
-| **[Swotsy](https://mcbile.app/swotsy)** | Strategic analysis and planning tool for evaluating strengths, weaknesses, opportunities, and risks | Python, FastAPI, Pandas, AI tooling |
+| **[Swotsy](https://mcbile.app/swotsy)** | Strategic analysis and planning tool for evaluating strengths, weaknesses, opportunities, and risks for iGaming operators | Python, FastAPI, Pandas, AI tooling |
 | **[Filesy](https://filesy.top)** | Local semantic file search for macOS with AI indexing, retrieval, and knowledge access | Svelte, Tauri, Python, Ollama, Qdrant |
 | **[Visionary](https://www.mcbile.app/playbook-aic)** | AI knowledge library and orchestration layer for prompts, workflows, and structured decision support | Python, Shell, AI tooling |
 | **[Cheese Runner](https://cheese.promo)** | 3D browser game experience with interactive gameplay, world logic, and arcade mechanics | React, TypeScript, Vite, Three.js |
 
 </div>
 
----
-
 <div align="center">
 
-### Built for clarity, scale, and iteration.
-
-</div>
-
----
-
-<div align="center">
-
-### Built for clarity, scale, and iteration.
+## Built for clarity, scale, and iteration.
 
 </div>
